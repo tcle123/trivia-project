@@ -2,6 +2,10 @@
 
 A minimal configuration for Create React App that includes Tailwind and Axios pre-configured.
 
+## Setup
+
+### `npm install`
+
 ## Developing
 
 ### `npm run start`
